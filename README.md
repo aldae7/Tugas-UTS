@@ -43,9 +43,9 @@ int main(){
 
 ```
 
-** Soal kedua **
+**Soal kedua**
 
-**Alur Program **
+**Alur Program**
 
 1. deklarasikan variabel input N, X, T, Batas; sebagai inputnya
 2. memasukkan nilal N yaitu 2 angka terakhir NIM saya,  maka N adalah 60 
