@@ -42,6 +42,8 @@ int main(){
 }
 
 ```
+**Hasilnya**
+![img](https://raw.githubusercontent.com/aldae7/Tugas-UTS/master/ssutsa.png)
 
 **Soal kedua**
 
